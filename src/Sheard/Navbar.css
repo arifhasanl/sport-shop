@@ -1,0 +1,14 @@
+nav a{
+    margin-left: 30px;
+    display: inline-block;
+}
+/* nav .responsive a{
+    margin-left: 30px;
+    display: inline-block;
+} */
+.header-bar-icon svg{
+font-size: 30px;
+}
+.logo{
+    font-family: 'Kalam', cursive;
+}
